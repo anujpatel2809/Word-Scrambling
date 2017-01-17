@@ -3,6 +3,7 @@ ScramblingModule – Module for scramble word or file
 	This module provide facility to scramble words or file.
 
 1)Methods
+
 	1)scrambleFile(file_name)
 		This method take a file name as input and generate new scramble file and return path of new scrambled file
 	2)scramble(Word)

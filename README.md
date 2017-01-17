@@ -10,6 +10,7 @@ ScramblingModule – Module for scramble word or file
 		This method take word and return scrambled word.
 
 2)Execptions
+
 	1)exception FileNotFoundError :
 		Raised when a file or directory is requested but doesn’t exist. Corresponds to errno ENOENT
 	2)execption ValueError
